@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
+    <ClCompile Include="LV2\구명보트\Source.cpp" />
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
     <ClCompile Include="LV2\숫자의 표현\Source.cpp" />
+    <ClCompile Include="LV2\영어 끝말잇기\Source.cpp" />
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\짝지어 제거하기\Source.cpp" />
