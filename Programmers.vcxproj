@@ -130,6 +130,8 @@
     <ClCompile Include="LV2\H-Index\Source.cpp" />
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
     <ClCompile Include="LV2\구명보트\Source.cpp" />
+    <ClCompile Include="LV2\귤 고르기\Source.cpp" />
+    <ClCompile Include="LV2\기능개발\Source.cpp" />
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
     <ClCompile Include="LV2\숫자의 표현\Source.cpp" />
@@ -140,6 +142,8 @@
     <ClCompile Include="LV2\최대값과 최솟값\Source.cpp" />
     <ClCompile Include="LV2\최솟값 만들기\Source.cpp" />
     <ClCompile Include="LV2\카펫\Source.cpp" />
+    <ClCompile Include="LV2\타겟 넘버\Source.cpp" />
+    <ClCompile Include="LV2\프린터\Source.cpp" />
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
