@@ -136,10 +136,13 @@
     <ClCompile Include="LV2\기능개발\Source.cpp" />
     <ClCompile Include="LV2\다리를 지나는 트럭\Source.cpp" />
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
+    <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp" />
     <ClCompile Include="LV2\땅따먹기\Source.cpp" />
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
+    <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
     <ClCompile Include="LV2\소수 찾기\Source.cpp" />
+    <ClCompile Include="LV2\수식 최대화\Source.cpp" />
     <ClCompile Include="LV2\숫자의 표현\Source.cpp" />
     <ClCompile Include="LV2\스킬트리\Source.cpp" />
     <ClCompile Include="LV2\압축\Source.cpp" />
