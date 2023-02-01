@@ -123,5 +123,14 @@
     <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\줄 서는 방법\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV2\가장 큰 정사각형 찾기\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV2\롤케이크 자르기\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -131,6 +131,7 @@
     <ClCompile Include="LV2\H-Index\Source.cpp" />
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 수\Source.cpp" />
+    <ClCompile Include="LV2\가장 큰 정사각형 찾기\Source.cpp" />
     <ClCompile Include="LV2\구명보트\Source.cpp" />
     <ClCompile Include="LV2\귤 고르기\Source.cpp" />
     <ClCompile Include="LV2\기능개발\Source.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
     <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp" />
     <ClCompile Include="LV2\땅따먹기\Source.cpp" />
+    <ClCompile Include="LV2\롤케이크 자르기\Source.cpp" />
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
     <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
@@ -152,6 +154,7 @@
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\주식가격\Source.cpp" />
     <ClCompile Include="LV2\주차 요금 계산\Source.cpp" />
+    <ClCompile Include="LV2\줄 서는 방법\Source.cpp" />
     <ClCompile Include="LV2\짝지어 제거하기\Source.cpp" />
     <ClCompile Include="LV2\최대값과 최솟값\Source.cpp" />
     <ClCompile Include="LV2\최솟값 만들기\Source.cpp" />
