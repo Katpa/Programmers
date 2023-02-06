@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="LV2\124 나라의 숫자\Source.cpp" />
     <ClCompile Include="LV2\2 X n 타일링\Source.cpp" />
+    <ClCompile Include="LV2\2개 이하로 다른 비트\Source.cpp" />
     <ClCompile Include="LV2\H-Index\Source.cpp" />
     <ClCompile Include="LV2\K진수에서 소수 개수 구하기\Source.cpp" />
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
@@ -144,6 +145,7 @@
     <ClCompile Include="LV2\롤케이크 자르기\Source.cpp" />
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
     <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
+    <ClCompile Include="LV2\방문길이\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
     <ClCompile Include="LV2\소수 찾기\Source.cpp" />
     <ClCompile Include="LV2\수식 최대화\Source.cpp" />
@@ -155,6 +157,7 @@
     <ClCompile Include="LV2\오픈채팅방\Source.cpp" />
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
+    <ClCompile Include="LV2\점 찍기\Source.cpp" />
     <ClCompile Include="LV2\주식가격\Source.cpp" />
     <ClCompile Include="LV2\주차 요금 계산\Source.cpp" />
     <ClCompile Include="LV2\줄 서는 방법\Source.cpp" />
@@ -168,6 +171,7 @@
     <ClCompile Include="LV2\프린터\Source.cpp" />
     <ClCompile Include="LV2\피로도\Source.cpp" />
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
+    <ClCompile Include="LV2\하노이의 탑\Source.cpp" />
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
