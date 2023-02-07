@@ -132,6 +132,7 @@
     <ClCompile Include="LV2\2개 이하로 다른 비트\Source.cpp" />
     <ClCompile Include="LV2\H-Index\Source.cpp" />
     <ClCompile Include="LV2\K진수에서 소수 개수 구하기\Source.cpp" />
+    <ClCompile Include="LV2\N-Queen\Source.cpp" />
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 정사각형 찾기\Source.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\점 찍기\Source.cpp" />
+    <ClCompile Include="LV2\조이스틱\Source.cpp" />
     <ClCompile Include="LV2\주식가격\Source.cpp" />
     <ClCompile Include="LV2\주차 요금 계산\Source.cpp" />
     <ClCompile Include="LV2\줄 서는 방법\Source.cpp" />
@@ -173,6 +175,7 @@
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
     <ClCompile Include="LV2\하노이의 탑\Source.cpp" />
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
+    <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
