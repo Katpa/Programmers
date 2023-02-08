@@ -176,6 +176,8 @@
     <ClCompile Include="LV2\하노이의 탑\Source.cpp" />
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
     <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
+    <ClCompile Include="LV3\거스름돈\Source.cpp" />
+    <ClCompile Include="LV3\스티커 모으기(2)\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
