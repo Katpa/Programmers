@@ -178,6 +178,8 @@
     <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
     <ClCompile Include="LV3\[1차] 셔틀버스\Source.cpp" />
     <ClCompile Include="LV3\거스름돈\Source.cpp" />
+    <ClCompile Include="LV3\보석 쇼핑\Source.cpp" />
+    <ClCompile Include="LV3\섬 연결하기\Source.cpp" />
     <ClCompile Include="LV3\스티커 모으기(2)\Source.cpp" />
     <ClCompile Include="LV3\여행경로\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
