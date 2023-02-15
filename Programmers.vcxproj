@@ -155,10 +155,12 @@
     <ClCompile Include="LV2\스킬트리\Source.cpp" />
     <ClCompile Include="LV2\압축\Source.cpp" />
     <ClCompile Include="LV2\영어 끝말잇기\Source.cpp" />
+    <ClCompile Include="LV2\예상 대진표\Source.cpp" />
     <ClCompile Include="LV2\오픈채팅방\Source.cpp" />
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\점 찍기\Source.cpp" />
+    <ClCompile Include="LV2\점프와 순간 이동\Source.cpp" />
     <ClCompile Include="LV2\조이스틱\Source.cpp" />
     <ClCompile Include="LV2\주식가격\Source.cpp" />
     <ClCompile Include="LV2\주차 요금 계산\Source.cpp" />
