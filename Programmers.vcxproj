@@ -143,9 +143,12 @@
     <ClCompile Include="LV2\다리를 지나는 트럭\Source.cpp" />
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
     <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp" />
+    <ClCompile Include="LV2\뒤에 있는 큰 수 찾기\Source.cpp" />
     <ClCompile Include="LV2\땅따먹기\Source.cpp" />
     <ClCompile Include="LV2\롤케이크 자르기\Source.cpp" />
+    <ClCompile Include="LV2\마법의 엘리베이터\Source.cpp" />
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
+    <ClCompile Include="LV2\멀쩡한 사각형\Source.cpp" />
     <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
     <ClCompile Include="LV2\방문길이\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
