@@ -151,6 +151,7 @@
     <ClCompile Include="LV2\멀쩡한 사각형\Source.cpp" />
     <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
     <ClCompile Include="LV2\방문길이\Source.cpp" />
+    <ClCompile Include="LV2\배달\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
     <ClCompile Include="LV2\소수 찾기\Source.cpp" />
     <ClCompile Include="LV2\수식 최대화\Source.cpp" />
@@ -192,6 +193,7 @@
     <ClCompile Include="LV3\섬 연결하기\Source.cpp" />
     <ClCompile Include="LV3\숫자 게임\Source.cpp" />
     <ClCompile Include="LV3\스티커 모으기(2)\Source.cpp" />
+    <ClCompile Include="LV3\야근 지수\Source.cpp" />
     <ClCompile Include="LV3\여행경로\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
