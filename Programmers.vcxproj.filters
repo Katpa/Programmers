@@ -222,5 +222,11 @@
     <ClCompile Include="LV3\야근 지수\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\위장\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV2\전화번호 목록\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -163,7 +163,9 @@
     <ClCompile Include="LV2\예상 대진표\Source.cpp" />
     <ClCompile Include="LV2\오픈채팅방\Source.cpp" />
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
+    <ClCompile Include="LV2\위장\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
+    <ClCompile Include="LV2\전화번호 목록\Source.cpp" />
     <ClCompile Include="LV2\점 찍기\Source.cpp" />
     <ClCompile Include="LV2\점프와 순간 이동\Source.cpp" />
     <ClCompile Include="LV2\조이스틱\Source.cpp" />
