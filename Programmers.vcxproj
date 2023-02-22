@@ -136,6 +136,7 @@
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 정사각형 찾기\Source.cpp" />
+    <ClCompile Include="LV2\괄호 변환\Source.cpp" />
     <ClCompile Include="LV2\괄호 회전하기\Source.cpp" />
     <ClCompile Include="LV2\구명보트\Source.cpp" />
     <ClCompile Include="LV2\귤 고르기\Source.cpp" />
@@ -187,6 +188,7 @@
     <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
     <ClCompile Include="LV3\[1차] 셔틀버스\Source.cpp" />
     <ClCompile Include="LV3\거스름돈\Source.cpp" />
+    <ClCompile Include="LV3\네트워크\Source.cpp" />
     <ClCompile Include="LV3\단속카메라\Source.cpp" />
     <ClCompile Include="LV3\단어 변환\Source.cpp" />
     <ClCompile Include="LV3\등굣길\Source.cpp" />
