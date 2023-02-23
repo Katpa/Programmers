@@ -157,6 +157,7 @@
     <ClCompile Include="LV2\소수 찾기\Source.cpp" />
     <ClCompile Include="LV2\수식 최대화\Source.cpp" />
     <ClCompile Include="LV2\숫자 변환하기\Source.cpp" />
+    <ClCompile Include="LV2\숫자 블록\Source.cpp" />
     <ClCompile Include="LV2\숫자의 표현\Source.cpp" />
     <ClCompile Include="LV2\스킬트리\Source.cpp" />
     <ClCompile Include="LV2\압축\Source.cpp" />
@@ -199,6 +200,7 @@
     <ClCompile Include="LV3\스티커 모으기(2)\Source.cpp" />
     <ClCompile Include="LV3\야근 지수\Source.cpp" />
     <ClCompile Include="LV3\여행경로\Source.cpp" />
+    <ClCompile Include="LV3\최고의 집합\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
