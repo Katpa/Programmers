@@ -200,6 +200,8 @@
     <ClCompile Include="LV3\스티커 모으기(2)\Source.cpp" />
     <ClCompile Include="LV3\야근 지수\Source.cpp" />
     <ClCompile Include="LV3\여행경로\Source.cpp" />
+    <ClCompile Include="LV3\이중우선순위큐\Source.cpp" />
+    <ClCompile Include="LV3\정수 삼각형\Source.cpp" />
     <ClCompile Include="LV3\최고의 집합\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
