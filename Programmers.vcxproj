@@ -167,6 +167,7 @@
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
     <ClCompile Include="LV2\위장\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
+    <ClCompile Include="LV2\전력망을 둘로 나누기\Source.cpp" />
     <ClCompile Include="LV2\전화번호 목록\Source.cpp" />
     <ClCompile Include="LV2\점 찍기\Source.cpp" />
     <ClCompile Include="LV2\점프와 순간 이동\Source.cpp" />
@@ -186,6 +187,7 @@
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
     <ClCompile Include="LV2\하노이의 탑\Source.cpp" />
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
+    <ClCompile Include="LV2\호텔 대실\Source.cpp" />
     <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
     <ClCompile Include="LV3\[1차] 셔틀버스\Source.cpp" />
     <ClCompile Include="LV3\거스름돈\Source.cpp" />
