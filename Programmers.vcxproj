@@ -168,6 +168,7 @@
     <ClCompile Include="LV2\예상 대진표\Source.cpp" />
     <ClCompile Include="LV2\오픈채팅방\Source.cpp" />
     <ClCompile Include="LV2\올바른 괄호\Source.cpp" />
+    <ClCompile Include="LV2\올바른 괄호\Source2.cpp" />
     <ClCompile Include="LV2\위장\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\전력망을 둘로 나누기\Source.cpp" />
@@ -180,7 +181,9 @@
     <ClCompile Include="LV2\줄 서는 방법\Source.cpp" />
     <ClCompile Include="LV2\짝지어 제거하기\Source.cpp" />
     <ClCompile Include="LV2\최대값과 최솟값\Source.cpp" />
+    <ClCompile Include="LV2\최대값과 최솟값\Source2.cpp" />
     <ClCompile Include="LV2\최솟값 만들기\Source.cpp" />
+    <ClCompile Include="LV2\최솟값 만들기\Source2.cpp" />
     <ClCompile Include="LV2\카펫\Source.cpp" />
     <ClCompile Include="LV2\큰 수 만들기\Source.cpp" />
     <ClCompile Include="LV2\타겟 넘버\Source.cpp" />
