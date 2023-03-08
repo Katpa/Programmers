@@ -276,5 +276,8 @@
     <ClCompile Include="LV2\숫자의 표현\Source2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\피보나치 수열\Source2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
