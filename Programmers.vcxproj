@@ -154,6 +154,7 @@
     <ClCompile Include="LV2\멀리 뛰기\Source.cpp" />
     <ClCompile Include="LV2\멀쩡한 사각형\Source.cpp" />
     <ClCompile Include="LV2\메뉴 리뉴얼\Source.cpp" />
+    <ClCompile Include="LV2\모음 사전\Source.cpp" />
     <ClCompile Include="LV2\방문길이\Source.cpp" />
     <ClCompile Include="LV2\배달\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
