@@ -12,38 +12,18 @@ struct Node
 
     bool operator==(const Node& b) { return this->x == b.x && this->y == b.y; }
 };
+
 Node Size;
-
 int dx[4] = { 1, -1, 0, 0 };
-int dy[4] = { 0, 0, -1, 1 };
+int dy[4] = { 0, 0, 1, -1 };
 
-vector<Node> BFS(Node curNode, vector<vector<bool>>& visited, const vector<string> maps)
+// BSP
+int GetPath(Node start, Node end, const vector<string>& maps)
 {
-    vector<Node> nodes;
-
-    for (int iter = 0; iter < 4; iter++)
-    {
-        Node nextNode = { curNode.x + dx[iter], curNode.y + dy[iter], curNode.cost + 1 };
-
-        if (nextNode.x < 0 || nextNode.x >= Size.x) continue;
-        if (nextNode.y < 0 || nextNode.y >= Size.y) continue;
-        if (maps[nextNode.y][nextNode.x] == 'X') continue;
-        if (visited[nextNode.y][nextNode.x]) continue;
-
-        visited[nextNode.y][nextNode.x] = true;
-        nodes.push_back(nextNode);
-    }
-
-    return nodes;
-}
-
-int GetPath(Node start, Node end, const vector<string> maps)
-{
+    vector<vector<bool>> visited(Size.y, vector<bool>(Size.x, false));
     queue<Node> nodes;
     nodes.push(start);
-
-    vector<vector<bool>> visited(Size.y, vector<bool>(Size.x, false));
-    visited[start.y][start.y] = true;
+    visited[start.y][start.x] = true;
 
     while (!nodes.empty())
     {
@@ -51,13 +31,18 @@ int GetPath(Node start, Node end, const vector<string> maps)
         Node curNode = nodes.front();
         nodes.pop();
 
-        linked = BFS(curNode, visited, maps);
-        for (Node& node : linked)
+        for (int iter = 0; iter < 4; iter++)
         {
-            if (node == end)
-                return node.cost;
-            else
-                nodes.push(node);
+            Node nextNode = { curNode.x + dx[iter], curNode.y + dy[iter], curNode.cost + 1 };
+
+            if (nextNode.x < 0 || nextNode.x >= Size.x) continue;
+            if (nextNode.y < 0 || nextNode.y >= Size.y) continue;
+            if (maps[nextNode.y][nextNode.x] == 'X') continue;
+            if (visited[nextNode.y][nextNode.x]) continue;
+            if (nextNode == end) return nextNode.cost;
+
+            visited[nextNode.y][nextNode.x] = true;
+            nodes.push(nextNode);
         }
     }
 
@@ -70,20 +55,24 @@ int solution(vector<string> maps)
     Size.y = maps.size();
     Node start, lever, exit;
 
-    for (int y = 0; y < Size.y; y++)
+    int cnt = 0;
+    for (int y = 0; y < Size.y || cnt < 3; y++)
     {
-        for (int x = 0; x < Size.x; x++)
+        for (int x = 0; x < Size.x || cnt < 3; x++)
         {
             switch (maps[y][x])
             {
             case 'S':
                 start = { x, y, 0 };
+                cnt++;
                 break;
             case 'L':
                 lever = { x, y, 0 };
+                cnt++;
                 break;
             case 'E':
                 exit = { x, y, 0 };
+                cnt++;
                 break;
             }
         }
