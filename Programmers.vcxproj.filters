@@ -291,5 +291,8 @@
     <ClCompile Include="LV2\무인도 여행\Source2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\미로 탈출\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

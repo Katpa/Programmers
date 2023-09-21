@@ -157,6 +157,7 @@
     <ClCompile Include="LV2\모음 사전\Source.cpp" />
     <ClCompile Include="LV2\무인도 여행\Source.cpp" />
     <ClCompile Include="LV2\무인도 여행\Source2.cpp" />
+    <ClCompile Include="LV2\미로 탈출\Source.cpp" />
     <ClCompile Include="LV2\방문길이\Source.cpp" />
     <ClCompile Include="LV2\배달\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
