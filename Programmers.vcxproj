@@ -147,6 +147,7 @@
     <ClCompile Include="LV2\기능개발\Source.cpp" />
     <ClCompile Include="LV2\다리를 지나는 트럭\Source.cpp" />
     <ClCompile Include="LV2\다음 큰 숫자\Source.cpp" />
+    <ClCompile Include="LV2\두 원 사이의 정수 쌍\Source.cpp" />
     <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp" />
     <ClCompile Include="LV2\뒤에 있는 큰 수 찾기\Source.cpp" />
     <ClCompile Include="LV2\땅따먹기\Source.cpp" />
