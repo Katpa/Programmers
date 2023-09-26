@@ -206,6 +206,7 @@
     <ClCompile Include="LV2\행렬의 곱셈\Source.cpp" />
     <ClCompile Include="LV2\호텔 대실\Source.cpp" />
     <ClCompile Include="LV2\혼자 놀기의 달인\Source.cpp" />
+    <ClCompile Include="LV2\혼자서 하는 틱택토\Source.cpp" />
     <ClCompile Include="LV3\[1차] 셔틀버스\Source.cpp" />
     <ClCompile Include="LV3\거스름돈\Source.cpp" />
     <ClCompile Include="LV3\네트워크\Source.cpp" />
