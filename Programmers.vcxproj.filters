@@ -306,5 +306,8 @@
     <ClCompile Include="LV2\혼자서 하는 틱택토\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\숫자 카드 나누기\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
