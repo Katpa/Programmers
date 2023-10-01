@@ -312,5 +312,8 @@
     <ClCompile Include="LV2\교점에 별 만들기\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\후보키\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
