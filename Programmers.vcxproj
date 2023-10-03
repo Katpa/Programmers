@@ -198,6 +198,7 @@
     <ClCompile Include="LV2\최솟값 만들기\Source.cpp" />
     <ClCompile Include="LV2\최솟값 만들기\Source2.cpp" />
     <ClCompile Include="LV2\카펫\Source.cpp" />
+    <ClCompile Include="LV2\쿼드압축 후 개수 세기\Source.cpp" />
     <ClCompile Include="LV2\큰 수 만들기\Source.cpp" />
     <ClCompile Include="LV2\타겟 넘버\Source.cpp" />
     <ClCompile Include="LV2\택배상자\Source.cpp" />
