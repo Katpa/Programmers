@@ -324,5 +324,8 @@
     <ClCompile Include="LV2\쿼드압축 후 개수 세기\Source2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV3\가장 먼 노드\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
