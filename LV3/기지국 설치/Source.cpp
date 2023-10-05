@@ -1,4 +1,5 @@
 #include <vector>
+#include <math.h>
 
 using namespace std;
 
@@ -6,9 +7,7 @@ void SetAnswer(int cnt, int& answer, int netSize)
 {
     if (cnt <= 0) return;
 
-    int tmpNum = cnt / netSize;
-    if (cnt % netSize)
-        tmpNum++;
+    int tmpNum = ceil((double)cnt / (double)netSize);
     answer += tmpNum;
 }
 
