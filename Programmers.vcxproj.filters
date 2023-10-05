@@ -333,5 +333,8 @@
     <ClCompile Include="LV3\입국심사\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV3\기지국 설치\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

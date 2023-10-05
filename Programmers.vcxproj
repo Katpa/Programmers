@@ -217,6 +217,7 @@
     <ClCompile Include="LV3\가장 먼 노드\Source.cpp" />
     <ClCompile Include="LV3\가장 먼 노드\Source2.cpp" />
     <ClCompile Include="LV3\거스름돈\Source.cpp" />
+    <ClCompile Include="LV3\기지국 설치\Source.cpp" />
     <ClCompile Include="LV3\네트워크\Source.cpp" />
     <ClCompile Include="LV3\단속카메라\Source.cpp" />
     <ClCompile Include="LV3\단어 변환\Source.cpp" />
