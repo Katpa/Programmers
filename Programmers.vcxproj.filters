@@ -342,5 +342,8 @@
     <ClCompile Include="LV2\징검다리 건너기\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV3\디스크 컨트롤러\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

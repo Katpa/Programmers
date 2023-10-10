@@ -224,6 +224,7 @@
     <ClCompile Include="LV3\단속카메라\Source.cpp" />
     <ClCompile Include="LV3\단어 변환\Source.cpp" />
     <ClCompile Include="LV3\등굣길\Source.cpp" />
+    <ClCompile Include="LV3\디스크 컨트롤러\Source.cpp" />
     <ClCompile Include="LV3\보석 쇼핑\Source.cpp" />
     <ClCompile Include="LV3\불량 사용자\Source.cpp" />
     <ClCompile Include="LV3\섬 연결하기\Source.cpp" />
