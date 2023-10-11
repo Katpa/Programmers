@@ -345,5 +345,8 @@
     <ClCompile Include="LV3\디스크 컨트롤러\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\행렬 테두리 회전하기\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
