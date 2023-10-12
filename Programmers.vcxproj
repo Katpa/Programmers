@@ -206,6 +206,7 @@
     <ClCompile Include="LV2\타겟 넘버\Source.cpp" />
     <ClCompile Include="LV2\택배상자\Source.cpp" />
     <ClCompile Include="LV2\튜플\Source.cpp" />
+    <ClCompile Include="LV2\튜플\Source2.cpp" />
     <ClCompile Include="LV2\프린터\Source.cpp" />
     <ClCompile Include="LV2\피로도\Source.cpp" />
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
