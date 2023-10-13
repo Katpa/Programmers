@@ -354,5 +354,8 @@
     <ClCompile Include="LV2\튜플\Source2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV3\베스트 앨범\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
