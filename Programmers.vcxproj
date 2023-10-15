@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp" />
     <ClCompile Include="LV2\124 나라의 숫자\Source.cpp" />
     <ClCompile Include="LV2\2 X n 타일링\Source.cpp" />

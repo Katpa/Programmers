@@ -360,5 +360,8 @@
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
