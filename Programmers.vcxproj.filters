@@ -366,5 +366,11 @@
     <ClCompile Include="HackerRank\Medium\Virtual functions\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Climbing the leaderboard\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Queen%27s attack II\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
