@@ -129,8 +129,10 @@
   <ItemGroup>
     <ClCompile Include="HackerRank\Medium\Climbing the leaderboard\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\Forming a Magic Square\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Queen%27s attack II\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\The Bomberman game\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Virtual functions\Source.cpp" />
     <ClCompile Include="LV2\124 나라의 숫자\Source.cpp" />
     <ClCompile Include="LV2\2 X n 타일링\Source.cpp" />
