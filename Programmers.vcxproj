@@ -131,6 +131,7 @@
     <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Forming a Magic Square\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\Larry%27s Array\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Queen%27s attack II\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\The Bomberman game\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Virtual functions\Source.cpp" />

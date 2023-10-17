@@ -378,5 +378,8 @@
     <ClCompile Include="HackerRank\Medium\The Bomberman game\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Larry%27s Array\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
