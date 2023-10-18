@@ -130,6 +130,7 @@
     <ClCompile Include="HackerRank\Medium\3D Surface Area\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Climbing the leaderboard\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Common Child\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\Encryption\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Forming a Magic Square\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp" />

@@ -393,5 +393,8 @@
     <ClCompile Include="HackerRank\Medium\Lily%27s Homework\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Encryption\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
