@@ -387,5 +387,8 @@
     <ClCompile Include="HackerRank\Medium\3D Surface Area\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Common Child\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
