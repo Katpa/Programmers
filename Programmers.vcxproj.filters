@@ -396,5 +396,8 @@
     <ClCompile Include="HackerRank\Medium\Encryption\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\Extra Long Factorials\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
