@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HackerRank\Medium\3D Surface Area\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\Almost Sorted\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Bigger is Greater\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Climbing the leaderboard\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Common Child\Source.cpp" />
