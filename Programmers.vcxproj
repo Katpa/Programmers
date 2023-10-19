@@ -135,6 +135,7 @@
     <ClCompile Include="HackerRank\Medium\Exceptional server\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Extra Long Factorials\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Forming a Magic Square\Source.cpp" />
+    <ClCompile Include="HackerRank\Medium\Highest Value Palindrome\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Inherited code\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Larry%27s Array\Source.cpp" />
     <ClCompile Include="HackerRank\Medium\Lily%27s Homework\Source.cpp" />
