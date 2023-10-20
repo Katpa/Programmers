@@ -408,5 +408,8 @@
     <ClCompile Include="HackerRank\Medium\Almost Sorted\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank\Medium\The Time In Words\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
