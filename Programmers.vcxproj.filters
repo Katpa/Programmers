@@ -414,5 +414,8 @@
     <ClCompile Include="LV2\거리두기 확인하기\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\테이블 해시 함수\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
