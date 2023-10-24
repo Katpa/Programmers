@@ -261,6 +261,7 @@
     <ClCompile Include="LV3\입국심사\Source.cpp" />
     <ClCompile Include="LV3\정수 삼각형\Source.cpp" />
     <ClCompile Include="LV3\최고의 집합\Source.cpp" />
+    <ClCompile Include="LV3\합승 택시 요금\Source.cpp" />
     <ClCompile Include="Programmers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
