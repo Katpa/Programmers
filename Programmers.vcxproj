@@ -171,6 +171,7 @@
     <ClCompile Include="LV2\두 원 사이의 정수 쌍\Source.cpp" />
     <ClCompile Include="LV2\두 큐 합 같게 만들기\Source.cpp" />
     <ClCompile Include="LV2\뒤에 있는 큰 수 찾기\Source.cpp" />
+    <ClCompile Include="LV2\디펜스 게임\Source.cpp" />
     <ClCompile Include="LV2\땅따먹기\Source.cpp" />
     <ClCompile Include="LV2\롤케이크 자르기\Source.cpp" />
     <ClCompile Include="LV2\마법의 엘리베이터\Source.cpp" />

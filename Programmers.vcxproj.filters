@@ -426,5 +426,8 @@
     <ClCompile Include="LV3\합승 택시 요금\Source2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\디펜스 게임\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
