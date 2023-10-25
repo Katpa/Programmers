@@ -203,6 +203,7 @@
     <ClCompile Include="LV2\요격 시스템\Source.cpp" />
     <ClCompile Include="LV2\우박수열 정적분\Source.cpp" />
     <ClCompile Include="LV2\위장\Source.cpp" />
+    <ClCompile Include="LV2\이모티콘 행사\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source.cpp" />
     <ClCompile Include="LV2\이진 변환 반복하기\Source2.cpp" />
     <ClCompile Include="LV2\전력망을 둘로 나누기\Source.cpp" />
