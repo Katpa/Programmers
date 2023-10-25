@@ -148,6 +148,7 @@
     <ClCompile Include="LV2\124 나라의 숫자\Source.cpp" />
     <ClCompile Include="LV2\2 X n 타일링\Source.cpp" />
     <ClCompile Include="LV2\2개 이하로 다른 비트\Source.cpp" />
+    <ClCompile Include="LV2\3 X n 타일링\Source.cpp" />
     <ClCompile Include="LV2\H-Index\Source.cpp" />
     <ClCompile Include="LV2\K진수에서 소수 개수 구하기\Source.cpp" />
     <ClCompile Include="LV2\N-Queen\Source.cpp" />
