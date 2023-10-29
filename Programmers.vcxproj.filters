@@ -438,5 +438,8 @@
     <ClCompile Include="LV3\연속 펄스 부분 수열의 합\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\[1차] 캐시\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
