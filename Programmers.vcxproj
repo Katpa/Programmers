@@ -156,6 +156,7 @@
     <ClCompile Include="LV2\N개의 최소공배수\Source.cpp" />
     <ClCompile Include="LV2\[1차] 뉴스 클러스터링\Source.cpp" />
     <ClCompile Include="LV2\[1차] 캐시\Source.cpp" />
+    <ClCompile Include="LV2\[1차] 프렌즈4블록\Source.cpp" />
     <ClCompile Include="LV2\[3차]파일명 정렬\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 수\Source.cpp" />
     <ClCompile Include="LV2\가장 큰 정사각형 찾기\Source.cpp" />

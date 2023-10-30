@@ -441,5 +441,8 @@
     <ClCompile Include="LV2\[1차] 캐시\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV2\[1차] 프렌즈4블록\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
