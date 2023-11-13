@@ -188,6 +188,7 @@
     <ClCompile Include="LV2\미로 탈출\Source.cpp" />
     <ClCompile Include="LV2\방문길이\Source.cpp" />
     <ClCompile Include="LV2\배달\Source.cpp" />
+    <ClCompile Include="LV2\빛의 경로 사이클\Source.cpp" />
     <ClCompile Include="LV2\삼각 달팽이\Source.cpp" />
     <ClCompile Include="LV2\소수 찾기\Source.cpp" />
     <ClCompile Include="LV2\수식 최대화\Source.cpp" />
