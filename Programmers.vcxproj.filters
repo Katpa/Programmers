@@ -450,5 +450,8 @@
     <ClCompile Include="LV2\빛의 경로 사이클\Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LV3\경주로 건설\Source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
