@@ -198,6 +198,7 @@
     <ClCompile Include="LV2\숫자의 표현\Source.cpp" />
     <ClCompile Include="LV2\숫자의 표현\Source2.cpp" />
     <ClCompile Include="LV2\스킬트리\Source.cpp" />
+    <ClCompile Include="LV2\스킬트리\Source2.cpp" />
     <ClCompile Include="LV2\시소 짝꿍\Source.cpp" />
     <ClCompile Include="LV2\압축\Source.cpp" />
     <ClCompile Include="LV2\영어 끝말잇기\Source.cpp" />
