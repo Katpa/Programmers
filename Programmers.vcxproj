@@ -235,6 +235,8 @@
     <ClCompile Include="LV2\테이블 해시 함수\Source.cpp" />
     <ClCompile Include="LV2\튜플\Source.cpp" />
     <ClCompile Include="LV2\튜플\Source2.cpp" />
+    <ClCompile Include="LV2\프로세스\Source.cpp" />
+    <ClCompile Include="LV2\프로세스\Source2.cpp" />
     <ClCompile Include="LV2\프린터\Source.cpp" />
     <ClCompile Include="LV2\피로도\Source.cpp" />
     <ClCompile Include="LV2\피보나치 수열\Source.cpp" />
